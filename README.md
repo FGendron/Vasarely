@@ -9,4 +9,4 @@ You have to provide:
   - the radius of the sphere
 
 This is the setup used to obtained the vasarely-fred.png file:
--500 , 500, 50, blue, white, red, 0, 0, 0, 75
+-300 , 300, 25, blue, white, red, 0, 0, 0, 150
